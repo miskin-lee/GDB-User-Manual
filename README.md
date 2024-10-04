@@ -4,7 +4,10 @@
 <img src="/image/现代C++并发编程教程.png" width=512px alt="cpp"/>
 </a>
 
-# 现代C++并发编程教程tishan (同步main)
+# 现代C++并发编程教程
+
+本项目克隆于 Mqb 现代C++并发编程教程 项目地址https://github.com/Mq-b/ModernCpp-ConcurrentProgramming-Tutorial
+本项目不涉及利益，仅仅用于学习github pages
 
 本仓库用来存放 B 站课程[《现代 C++ 并发编程教程》]()的教案、代码。
 
