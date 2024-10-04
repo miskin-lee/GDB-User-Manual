@@ -40,4 +40,4 @@
 > [!TIP]
 > 每一位开发者赞助 `30`，白老师一天的食品安全就有了着落。
 
-<img src="./image/赞助.jpg" width=512px alt="cpp"/>
+<!-- <img src="./image/赞助.jpg" width=512px alt="cpp"/> -->
